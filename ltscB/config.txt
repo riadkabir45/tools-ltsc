@@ -1,0 +1,7 @@
+;!@Install@!UTF-8!
+
+Title="LTSC Activator"
+Progress="yes"
+RunProgram="LTSC-Loader.bat"
+
+;!@InstallEnd@!
